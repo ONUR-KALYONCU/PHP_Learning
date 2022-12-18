@@ -3,7 +3,7 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Merhaba Dünyak</title>
+<title>Merhaba Dünya</title>
 </head>
 
 <body>
