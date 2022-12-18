@@ -12,7 +12,7 @@
 
 $degisken1 = "Yaşasın";
 
-$degisken2= "$degisken1 Dünya";
+$degisken2= "$degisken1 PHP";
 
 echo $degisken2;
 

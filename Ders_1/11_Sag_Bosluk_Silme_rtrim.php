@@ -10,7 +10,7 @@
 
 <?php 
 
-$veri = "   İsmail KEKLİK    ";
+$veri = "   Onur Kalyoncu    ";
 echo rtrim($veri)."<br>"; 		// Sağdaki Boşlukları Siler
 
 ?>

@@ -23,7 +23,7 @@ $a=6;
 //* Çarpma Operatörü
 $a=4; 
 	$a=$a *2; 
-    	echo "Çartma : ".$a."<br>"; // (Sonuç :8)
+    	echo "Çarpma : ".$a."<br>"; // (Sonuç :8)
 
 // / Bölme Operatörü
 $a=2; 

@@ -10,7 +10,7 @@
 
 <?php 
 
-$veri = "   İsmail KEKLİK    "; 
+$veri = "   Onur Kalyoncu    "; 
 
 echo trim($veri)."<br>"; 		// Sağdaki ve Soldaki Boşlukları Siler
 

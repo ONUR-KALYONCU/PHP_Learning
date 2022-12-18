@@ -10,7 +10,7 @@
 
 <?php 
 
-$degisken = "MALATYA Ünv.";
+$degisken = "Arel Unv";
 
 unset($degisken);
 
