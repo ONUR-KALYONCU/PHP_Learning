@@ -15,7 +15,7 @@ require_once("_baglanti.php");	// Veritabanına Bağlantı DOSYAYI ÇEKTİK.
 // ----------------------------------------------------------------------------------------------------------------------------
 
 $sql = "INSERT INTO `uyeler`(`uye_id`, `uye_adi`, `uye_soyadi`, `kullanici_adi`, `kullanici_sifre`, `uye_e_posta`, `uye_telefon`, `uye_sehir`) 
-		VALUES ('','İsmail','KEKLİK','ismailkeklik44@gmail.com','1234','ismailkeklik44@gmail.com','0507 602 6444','Malatya')";
+		VALUES ('','İsmail','KEKLİK','deneme@gmail.com','1234','deneme@gmail.com','0512 345 4521','Ankara')";
 
 mysqli_query($db,$sql);						// Bağlı Olan Veribanına Bağlan ve Oluştur.
 
