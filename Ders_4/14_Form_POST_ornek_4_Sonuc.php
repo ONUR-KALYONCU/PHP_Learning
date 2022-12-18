@@ -10,7 +10,7 @@
 
 <?php
 // İstenen kullanıcı adını ve şifreyi sabit değişkenler olarak tanımlayalım.
-define("username","ismailkeklik");
+define("username","onurkalyoncu");
 define("password","1234");
 
 
