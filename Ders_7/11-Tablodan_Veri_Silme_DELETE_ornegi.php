@@ -9,7 +9,7 @@
 <body>
 <?php 
 
-echo "DELETE FROM mezun_ogrenci WHERE `ogrenci_adi`='İsmail'";  // TABLODA ÖĞRENCİ ADI (İSMAİL2) OLANI SİLER
+echo "DELETE FROM mezun_ogrenci WHERE `ogrenci_adi`='Onur'";  // TABLODA ÖĞRENCİ ADI (Onur2) OLANI SİLER
 
 ?>
 

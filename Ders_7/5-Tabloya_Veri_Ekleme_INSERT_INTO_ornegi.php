@@ -10,7 +10,7 @@
 <?php   // VERİTABANINA KAYIT EKLEME 
 
 echo "INSERT INTO `mezun_ogrenci` (`ogrenci_id`, `ogrenci_adi`, `ogrenci_soyadi`, `ogrenci_no`, aldigi_not_vize, aldigi_not_final) 
-	  VALUES ('','İsmail','KEKLİK','2344','60','70');";
+	  VALUES ('','Onur','Kalyoncu','2344','60','70');";
 
 ?>
 
