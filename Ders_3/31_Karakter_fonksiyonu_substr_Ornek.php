@@ -11,14 +11,14 @@
 <?php 
 //Dizgenin bir kısmını döndürür.
 
-// Pozirif Numaralar:
+// Pozitif Numaralar:
 echo substr("Merhaba Dünya",10)."<br>";
 echo substr("Merhaba Dünya",1)."<br>";
 echo substr("Merhaba Dünya",3)."<br>";
 echo substr("Merhaba Dünya",7)."<br>";
 echo "<br>";
 
-// Negativ Numaralar:
+// Negatif Numaralar:
 echo substr("Merhaba Dünya",-1)."<br>";
 echo substr("Merhaba Dünya",-10)."<br>";
 echo substr("Merhaba Dünya",-8)."<br>";

@@ -11,7 +11,7 @@
 <?php
 // Bir mailin php ile yollanması aşağıdaki gibidir.
 
-	$adres = "ismailkeklik44@gmail.com";
+	$adres = "deneme@gmail.com";
 	$konu = "Mail konusu";
 	$mesaj = "PHP Mail() Fonksiyonu";
 	mail("$adres","$konu","$mesaj");
