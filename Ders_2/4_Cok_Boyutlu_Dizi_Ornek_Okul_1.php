@@ -27,7 +27,7 @@ $okul[2][]="Onur";
 $okul[2][]="Ayşe";
 
 
-echo $okul[2][0];   // Raşit sonucunu verir
+echo $okul[2][2];   // Onur sonucunu verir
 ?>
 </body>
 

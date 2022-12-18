@@ -19,7 +19,7 @@ $otel["kat2"]["oda1"]="Hasan";
 $otel["kat2"]["oda2"]="Kenan";
 $otel["kat2"]["oda3"]="Mert";
 
-$otel["kat3"]["oda1"]="Ayşe";
+$otel["kat3"]["oda1"]="Onur";
 $otel["kat3"]["oda2"]="Fatma";
 $otel["kat3"]["oda3"]="Hatice";
 
@@ -28,7 +28,7 @@ $otel["kat4"]["oda2"]="Hüseyin";
 $otel["kat4"]["oda3"]="Hakan";
 
 
-echo $otel["kat4"]["oda1"]; // ekrana Mehmet yazar
+echo $otel["kat3"]["oda1"]; // ekrana Onur yazar
 ?>
 
 </body>

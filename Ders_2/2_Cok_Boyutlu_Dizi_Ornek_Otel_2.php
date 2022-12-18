@@ -25,7 +25,7 @@ $otel=array(
  
 );
 
-echo $otel["kat4"]["oda2"]; // ekrana Hüseyin yazar
+echo $otel["kat4"]["oda1"]; // ekrana Hakan yazar
 ?>
 
 </body>
